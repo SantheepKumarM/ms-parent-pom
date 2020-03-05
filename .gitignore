@@ -1,2 +1,6 @@
 
 .classpath
+licensing-service/src/main/resources/schema.sql.mv.db
+licensing-service/.project
+licensing-service/.project
+bin/confsvr/.settings/org.eclipse.core.resources.prefs
