@@ -37,3 +37,13 @@ licensing-service/target/classes/org/licensing/service/simple/services/LicenseSe
 licensing-service/target/classes/org/licensing/service/simple/services/PropertyService.class
 licensing-service/target/classes/schema.sql
 licensing-service/target/classes/schema.sql.mv.db
+confsvr/target/confsvr-0.0.1-SNAPSHOT.jar
+confsvr/target/confsvr-0.0.1-SNAPSHOT.jar.original
+confsvr/target/maven-archiver/pom.properties
+confsvr/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+confsvr/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+licensing-service/target/licensing-service-0.0.1-SNAPSHOT.jar
+licensing-service/target/licensing-service-0.0.1-SNAPSHOT.jar.original
+licensing-service/target/maven-archiver/pom.properties
+licensing-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+licensing-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
