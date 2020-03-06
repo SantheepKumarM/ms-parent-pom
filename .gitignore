@@ -47,3 +47,4 @@ licensing-service/target/licensing-service-0.0.1-SNAPSHOT.jar.original
 licensing-service/target/maven-archiver/pom.properties
 licensing-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
 licensing-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+confsvr/.settings/org.eclipse.wst.common.project.facet.core.xml
